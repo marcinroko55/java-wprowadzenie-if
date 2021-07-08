@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class SrodkiTransportu {
+public class SrodkiTransportu {
+    public static void main(String[] args) {
+        
+    }
 }
